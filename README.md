@@ -1,10 +1,19 @@
 ---
-
-# Decentralized Voting Application
-
-## Overview
-
+<p align="center">
+  <h1 align="center">Decentralized Voting Application</h1>
+     <p align="center">
 This decentralized voting application demonstrates how to implement a voting system using a Solidity smart contract and a ReactJS frontend. The application allows users to participate in secure and transparent voting, leveraging the Ethereum blockchain for integrity and traceability of votes.
+  </p>
+</p>
+<div align="center">
+    
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Hardhat Badge](https://img.shields.io/badge/Hardhat-3C3C3D?style=for-the-badge&logo=hardhat&logoColor=white)
+  ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+  ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+</div>
 
 ## Prerequisites
 
